@@ -20,9 +20,13 @@ If you disagree with that stance, this is probably not the repo for you; if you 
 
 ## What’s in the tree
 
-- **`narrations/`** — Episode scripts (markdown); **one narration at a time** in workflow  
+- **`narrations/`** — Episode scripts (markdown)  
 - **`research/`** — Research notes that feed episodes  
 - **`books/`** — Quote extraction tooling and quote banks  
+
+## Narrations workflow
+
+Work on **only one narration at a time**—one topic or script—until it is finished with research and citations. Do not create or edit multiple narrations in parallel in the same stretch of work.
 
 ## Contribute
 
