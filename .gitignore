@@ -1,0 +1,10 @@
+.env
+
+__pycache__/
+*.pyc
+
+# PDFs (large binaries; keep local copies only)
+*.pdf
+
+# Parsed book text extracts (large; regenerate locally)
+books/parsed/

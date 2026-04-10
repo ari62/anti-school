@@ -1,0 +1,2218 @@
+[
+  {
+    "title": "The Factory Model of Education",
+    "quote_ids": [
+      "q0",
+      "q3",
+      "q7",
+      "q8",
+      "q16"
+    ]
+  },
+  {
+    "title": "Fear and Compliance in Learning",
+    "quote_ids": [
+      "q1",
+      "q6",
+      "q20",
+      "q22",
+      "q42"
+    ]
+  },
+  {
+    "title": "The Myth of Success in School",
+    "quote_ids": [
+      "q18",
+      "q10",
+      "q11",
+      "q40",
+      "q45"
+    ]
+  },
+  {
+    "title": "Curiosity and the Joy of Learning",
+    "quote_ids": [
+      "q4",
+      "q25",
+      "q50",
+      "q53",
+      "q54"
+    ]
+  },
+  {
+    "title": "The Role of Teachers and Teaching",
+    "quote_ids": [
+      "q33",
+      "q36",
+      "q39",
+      "q84",
+      "q85"
+    ]
+  },
+  {
+    "title": "The Impact of Compulsory Education",
+    "quote_ids": [
+      "q56",
+      "q60",
+      "q81",
+      "q82",
+      "q116",
+      "q140",
+      "q152",
+      "q153",
+      "q1100",
+      "q1112",
+      "q1116",
+      "q1162"
+    ]
+  },
+  {
+    "title": "The Nature of Failure in Education",
+    "quote_ids": [
+      "q27",
+      "q28",
+      "q30",
+      "q31",
+      "q47"
+    ]
+  },
+  {
+    "title": "The Nature of Learning",
+    "quote_ids": [
+      "q90",
+      "q92",
+      "q99",
+      "q178",
+      "q181",
+      "q188",
+      "q199",
+      "q204",
+      "q206",
+      "q456",
+      "q457",
+      "q458",
+      "q535",
+      "q540",
+      "q542",
+      "q554",
+      "q561",
+      "q617",
+      "q810",
+      "q860",
+      "q869",
+      "q870",
+      "q898",
+      "q953",
+      "q965",
+      "q958",
+      "q961",
+      "q964",
+      "q1351",
+      "q1350",
+      "q1354",
+      "q1374",
+      "q1379",
+      "q1800",
+      "q1846",
+      "q1847",
+      "q1881",
+      "q1884"
+    ]
+  },
+  {
+    "title": "The Schooling System's Failures",
+    "quote_ids": [
+      "q114",
+      "q115",
+      "q125",
+      "q128",
+      "q130"
+    ]
+  },
+  {
+    "title": "Freedom vs. Control",
+    "quote_ids": [
+      "q97",
+      "q108",
+      "q172",
+      "q176",
+      "q179",
+      "q183",
+      "q184",
+      "q189",
+      "q190",
+      "q201",
+      "q202",
+      "q1632",
+      "q1641",
+      "q1651",
+      "q1655",
+      "q1660",
+      "q1670",
+      "q1684"
+    ]
+  },
+  {
+    "title": "The Role of Adults in Education",
+    "quote_ids": [
+      "q91",
+      "q106",
+      "q111",
+      "q166"
+    ]
+  },
+  {
+    "title": "The Importance of Choice in Learning",
+    "quote_ids": [
+      "q112",
+      "q121",
+      "q157"
+    ]
+  },
+  {
+    "title": "The School System's Impact",
+    "quote_ids": [
+      "q182",
+      "q185",
+      "q191",
+      "q194",
+      "q220",
+      "q231"
+    ]
+  },
+  {
+    "title": "The Illusion of Education",
+    "quote_ids": [
+      "q215",
+      "q216",
+      "q218",
+      "q219",
+      "q224",
+      "q253",
+      "q285",
+      "q294",
+      "q300",
+      "q302",
+      "q338",
+      "q364",
+      "q361",
+      "q372",
+      "q373",
+      "q431",
+      "q2530",
+      "q2562",
+      "q2599",
+      "q2601",
+      "q2708",
+      "q2713",
+      "q2731",
+      "q2732",
+      "q2752"
+    ]
+  },
+  {
+    "title": "Reclaiming Self-Education",
+    "quote_ids": [
+      "q212",
+      "q213",
+      "q214",
+      "q250",
+      "q261"
+    ]
+  },
+  {
+    "title": "The Consequences of Forced Schooling",
+    "quote_ids": [
+      "q221",
+      "q225",
+      "q232",
+      "q234",
+      "q268",
+      "q2610",
+      "q2612",
+      "q2624",
+      "q2634",
+      "q2636",
+      "q2651",
+      "q2664",
+      "q2691"
+    ]
+  },
+  {
+    "title": "The Purpose of Schooling",
+    "quote_ids": [
+      "q271",
+      "q275",
+      "q278",
+      "q290",
+      "q319",
+      "q327"
+    ]
+  },
+  {
+    "title": "Control and Compliance",
+    "quote_ids": [
+      "q273",
+      "q279",
+      "q281",
+      "q288",
+      "q348",
+      "q2251",
+      "q2263",
+      "q2265",
+      "q2277",
+      "q2301",
+      "q2331"
+    ]
+  },
+  {
+    "title": "Community and Isolation",
+    "quote_ids": [
+      "q277",
+      "q290",
+      "q304",
+      "q311",
+      "q356"
+    ]
+  },
+  {
+    "title": "The Dangers of Standardization",
+    "quote_ids": [
+      "q284",
+      "q310",
+      "q358",
+      "q2594",
+      "q2596",
+      "q2598",
+      "q2697",
+      "q2698",
+      "q2699"
+    ]
+  },
+  {
+    "title": "The Need for Change",
+    "quote_ids": [
+      "q276",
+      "q296",
+      "q331"
+    ]
+  },
+  {
+    "title": "School as a System of Control",
+    "quote_ids": [
+      "q362",
+      "q368",
+      "q385",
+      "q413",
+      "q441"
+    ]
+  },
+  {
+    "title": "The Impact of Standardized Testing",
+    "quote_ids": [
+      "q372",
+      "q375",
+      "q376",
+      "q389"
+    ]
+  },
+  {
+    "title": "Boredom and Disengagement",
+    "quote_ids": [
+      "q377",
+      "q378",
+      "q380",
+      "q381",
+      "q425"
+    ]
+  },
+  {
+    "title": "The Cost of Compulsory Schooling",
+    "quote_ids": [
+      "q396",
+      "q397",
+      "q400",
+      "q437"
+    ]
+  },
+  {
+    "title": "The Need for Alternatives",
+    "quote_ids": [
+      "q395",
+      "q399",
+      "q440",
+      "q442"
+    ]
+  },
+  {
+    "title": "Freedom vs. Conformity",
+    "quote_ids": [
+      "q380",
+      "q412",
+      "q443",
+      "q445"
+    ]
+  },
+  {
+    "title": "The Purpose of Education",
+    "quote_ids": [
+      "q450",
+      "q451",
+      "q460",
+      "q463",
+      "q519"
+    ]
+  },
+  {
+    "title": "The Impact of Schooling",
+    "quote_ids": [
+      "q452",
+      "q453",
+      "q454",
+      "q455",
+      "q487",
+      "q492",
+      "q495",
+      "q720",
+      "q722",
+      "q723",
+      "q728",
+      "q731",
+      "q733",
+      "q872",
+      "q873",
+      "q891",
+      "q894",
+      "q897",
+      "q1004",
+      "q1054",
+      "q1055",
+      "q1061",
+      "q1066",
+      "q1071",
+      "q1814",
+      "q1821",
+      "q1822",
+      "q1828",
+      "q1833",
+      "q1839",
+      "q2256",
+      "q2278",
+      "q2285",
+      "q2306",
+      "q2336",
+      "q3151",
+      "q3154",
+      "q3160",
+      "q3164",
+      "q3169",
+      "q3237"
+    ]
+  },
+  {
+    "title": "Fear and Compliance in Education",
+    "quote_ids": [
+      "q459",
+      "q469",
+      "q470",
+      "q474",
+      "q526"
+    ]
+  },
+  {
+    "title": "The Illusion of Success",
+    "quote_ids": [
+      "q497",
+      "q513",
+      "q515",
+      "q536",
+      "q537",
+      "q538",
+      "q3432",
+      "q3448",
+      "q3490",
+      "q3500",
+      "q3508"
+    ]
+  },
+  {
+    "title": "Reimagining the Future of Learning",
+    "quote_ids": [
+      "q481",
+      "q532",
+      "q534"
+    ]
+  },
+  {
+    "title": "Fear and Anxiety in Education",
+    "quote_ids": [
+      "q579",
+      "q580",
+      "q581",
+      "q591",
+      "q583"
+    ]
+  },
+  {
+    "title": "The Impact of Teaching Methods",
+    "quote_ids": [
+      "q545",
+      "q553",
+      "q612",
+      "q617",
+      "q619"
+    ]
+  },
+  {
+    "title": "Children's Perception of School",
+    "quote_ids": [
+      "q555",
+      "q570",
+      "q577",
+      "q628"
+    ]
+  },
+  {
+    "title": "Strategies of Avoidance",
+    "quote_ids": [
+      "q550",
+      "q558",
+      "q590",
+      "q596"
+    ]
+  },
+  {
+    "title": "The Role of Fear in Learning",
+    "quote_ids": [
+      "q578",
+      "q603",
+      "q605",
+      "q629"
+    ]
+  },
+  {
+    "title": "The Nature of Intelligence",
+    "quote_ids": [
+      "q630",
+      "q676",
+      "q678"
+    ]
+  },
+  {
+    "title": "The Flaws of Traditional Education",
+    "quote_ids": [
+      "q631",
+      "q650",
+      "q651",
+      "q669",
+      "q675"
+    ]
+  },
+  {
+    "title": "Curiosity and Learning",
+    "quote_ids": [
+      "q671",
+      "q648",
+      "q695"
+    ]
+  },
+  {
+    "title": "Fear and Control in Schools",
+    "quote_ids": [
+      "q653",
+      "q660",
+      "q679",
+      "q694"
+    ]
+  },
+  {
+    "title": "The Role of Experience in Learning",
+    "quote_ids": [
+      "q642",
+      "q644",
+      "q666",
+      "q718"
+    ]
+  },
+  {
+    "title": "The Impact of Testing and Grades",
+    "quote_ids": [
+      "q649",
+      "q668",
+      "q714"
+    ]
+  },
+  {
+    "title": "The Teacher-Student Dynamic",
+    "quote_ids": [
+      "q656",
+      "q685",
+      "q687"
+    ]
+  },
+  {
+    "title": "Social Dynamics in Schools",
+    "quote_ids": [
+      "q725",
+      "q726",
+      "q727",
+      "q732",
+      "q734"
+    ]
+  },
+  {
+    "title": "Learning Outside of School",
+    "quote_ids": [
+      "q750",
+      "q759",
+      "q760",
+      "q761",
+      "q762",
+      "q789"
+    ]
+  },
+  {
+    "title": "The Nature of Education",
+    "quote_ids": [
+      "q745",
+      "q746",
+      "q747",
+      "q748",
+      "q749",
+      "q1174",
+      "q1182",
+      "q1183",
+      "q1191",
+      "q1251",
+      "q1252",
+      "q1741",
+      "q1768",
+      "q1773",
+      "q1775",
+      "q1785",
+      "q1938",
+      "q1950",
+      "q1951",
+      "q1977",
+      "q1979",
+      "q2161",
+      "q2185",
+      "q2225",
+      "q2252",
+      "q2254",
+      "q2255",
+      "q2260",
+      "q2271",
+      "q2272",
+      "q3421",
+      "q3422",
+      "q3423",
+      "q3424",
+      "q3425",
+      "q3426",
+      "q3428",
+      "q3431"
+    ]
+  },
+  {
+    "title": "Parental Rights and Responsibilities",
+    "quote_ids": [
+      "q768",
+      "q769",
+      "q770",
+      "q771"
+    ]
+  },
+  {
+    "title": "Challenges of Traditional Education",
+    "quote_ids": [
+      "q765",
+      "q766",
+      "q780",
+      "q807",
+      "q808"
+    ]
+  },
+  {
+    "title": "Children's Capabilities and Needs",
+    "quote_ids": [
+      "q818",
+      "q830",
+      "q844",
+      "q847",
+      "q852"
+    ]
+  },
+  {
+    "title": "Freedom and Control",
+    "quote_ids": [
+      "q812",
+      "q816",
+      "q823",
+      "q842",
+      "q874",
+      "q1362",
+      "q1390",
+      "q1373",
+      "q1399"
+    ]
+  },
+  {
+    "title": "The Role of Experience",
+    "quote_ids": [
+      "q825",
+      "q831",
+      "q840",
+      "q853",
+      "q855"
+    ]
+  },
+  {
+    "title": "The Importance of Play and Fantasy",
+    "quote_ids": [
+      "q843",
+      "q845",
+      "q846",
+      "q848",
+      "q849"
+    ]
+  },
+  {
+    "title": "Self-Discovery and Motivation",
+    "quote_ids": [
+      "q822",
+      "q824",
+      "q828",
+      "q829",
+      "q861"
+    ]
+  },
+  {
+    "title": "The Value of Independence",
+    "quote_ids": [
+      "q907",
+      "q914",
+      "q911",
+      "q920",
+      "q913"
+    ]
+  },
+  {
+    "title": "Learning Beyond the Classroom",
+    "quote_ids": [
+      "q901",
+      "q902",
+      "q903",
+      "q906",
+      "q949",
+      "q951",
+      "q955",
+      "q962",
+      "q2988",
+      "q3038",
+      "q3040",
+      "q3046",
+      "q3058"
+    ]
+  },
+  {
+    "title": "Critique of Standardized Education",
+    "quote_ids": [
+      "q924",
+      "q925",
+      "q934",
+      "q936",
+      "q940",
+      "q946"
+    ]
+  },
+  {
+    "title": "The Role of Parents in Education",
+    "quote_ids": [
+      "q908",
+      "q912",
+      "q919",
+      "q932",
+      "q935"
+    ]
+  },
+  {
+    "title": "The Impact of Environment on Learning",
+    "quote_ids": [
+      "q947",
+      "q948",
+      "q980",
+      "q986"
+    ]
+  },
+  {
+    "title": "Trust and Freedom in Learning",
+    "quote_ids": [
+      "q990",
+      "q991",
+      "q992",
+      "q997",
+      "q1002",
+      "q1026",
+      "q1077"
+    ]
+  },
+  {
+    "title": "The Role of the Teacher",
+    "quote_ids": [
+      "q994",
+      "q995",
+      "q996",
+      "q1003",
+      "q1012",
+      "q1013",
+      "q1050"
+    ]
+  },
+  {
+    "title": "The Nature of Knowledge",
+    "quote_ids": [
+      "q1000",
+      "q1005",
+      "q1009",
+      "q1015",
+      "q1016",
+      "q1078"
+    ]
+  },
+  {
+    "title": "Curiosity and Exploration",
+    "quote_ids": [
+      "q1001",
+      "q1019",
+      "q1076"
+    ]
+  },
+  {
+    "title": "Competition vs Cooperation",
+    "quote_ids": [
+      "q1069",
+      "q1070",
+      "q1079"
+    ]
+  },
+  {
+    "title": "The Nature of Schools",
+    "quote_ids": [
+      "q1081",
+      "q1082",
+      "q1084",
+      "q1090",
+      "q1098",
+      "q1110",
+      "q1161"
+    ]
+  },
+  {
+    "title": "Authority and Control",
+    "quote_ids": [
+      "q1086",
+      "q1087",
+      "q1089",
+      "q1097",
+      "q1111",
+      "q1113"
+    ]
+  },
+  {
+    "title": "Learning vs. Compliance",
+    "quote_ids": [
+      "q1083",
+      "q1093",
+      "q1106",
+      "q1115",
+      "q1119",
+      "q1120"
+    ]
+  },
+  {
+    "title": "Freedom and Choice in Education",
+    "quote_ids": [
+      "q1091",
+      "q1101",
+      "q1105",
+      "q1114",
+      "q1148",
+      "q1164"
+    ]
+  },
+  {
+    "title": "The Role of Teachers",
+    "quote_ids": [
+      "q1115",
+      "q1138",
+      "q1140",
+      "q1160",
+      "q1264",
+      "q1280",
+      "q1296",
+      "q1299",
+      "q1304",
+      "q3284",
+      "q3285",
+      "q3315",
+      "q3316",
+      "q3317"
+    ]
+  },
+  {
+    "title": "Inequality and Education",
+    "quote_ids": [
+      "q1102",
+      "q1103",
+      "q1158"
+    ]
+  },
+  {
+    "title": "The Illusion of Credentials",
+    "quote_ids": [
+      "q1175",
+      "q1190",
+      "q1247"
+    ]
+  },
+  {
+    "title": "The Impact of Society on Learning",
+    "quote_ids": [
+      "q1171",
+      "q1188",
+      "q1212",
+      "q1221",
+      "q1243"
+    ]
+  },
+  {
+    "title": "Children's Autonomy and Existence",
+    "quote_ids": [
+      "q1170",
+      "q1178",
+      "q1179",
+      "q1224",
+      "q1245"
+    ]
+  },
+  {
+    "title": "Critique of Compulsory Schooling",
+    "quote_ids": [
+      "q1193",
+      "q1244",
+      "q1254"
+    ]
+  },
+  {
+    "title": "The Role of Schools in Society",
+    "quote_ids": [
+      "q1217",
+      "q1225",
+      "q1235",
+      "q1238",
+      "q3429",
+      "q3502",
+      "q3503",
+      "q3506",
+      "q3507"
+    ]
+  },
+  {
+    "title": "The Harmful Effects of Traditional Education",
+    "quote_ids": [
+      "q1191",
+      "q1259"
+    ]
+  },
+  {
+    "title": "Critique of Schools",
+    "quote_ids": [
+      "q1261",
+      "q1263",
+      "q1270",
+      "q1279",
+      "q1308",
+      "q1309"
+    ]
+  },
+  {
+    "title": "Learning vs. Schooling",
+    "quote_ids": [
+      "q1313",
+      "q1314",
+      "q1326",
+      "q1340"
+    ]
+  },
+  {
+    "title": "Children's Needs",
+    "quote_ids": [
+      "q1272",
+      "q1273",
+      "q1282",
+      "q1285"
+    ]
+  },
+  {
+    "title": "The Impact of Institutionalization",
+    "quote_ids": [
+      "q1315",
+      "q1316",
+      "q1321",
+      "q1322",
+      "q1338"
+    ]
+  },
+  {
+    "title": "Imagination and Education",
+    "quote_ids": [
+      "q1333",
+      "q1344",
+      "q1346"
+    ]
+  },
+  {
+    "title": "Alienation and Dependence",
+    "quote_ids": [
+      "q1353",
+      "q1355",
+      "q1366",
+      "q1360",
+      "q1364"
+    ]
+  },
+  {
+    "title": "The Role of Schools",
+    "quote_ids": [
+      "q1357",
+      "q1358",
+      "q1371",
+      "q1370",
+      "q1394"
+    ]
+  },
+  {
+    "title": "Childhood and Authority",
+    "quote_ids": [
+      "q1400",
+      "q1401",
+      "q1403",
+      "q1411",
+      "q1412"
+    ]
+  },
+  {
+    "title": "The Importance of Play",
+    "quote_ids": [
+      "q1421",
+      "q1422",
+      "q1424",
+      "q1437"
+    ]
+  },
+  {
+    "title": "Healing Through Freedom",
+    "quote_ids": [
+      "q1430",
+      "q1431",
+      "q1433",
+      "q1428"
+    ]
+  },
+  {
+    "title": "Freedom and Play",
+    "quote_ids": [
+      "q1449",
+      "q1450",
+      "q1454",
+      "q1455",
+      "q1467",
+      "q1472",
+      "q1479"
+    ]
+  },
+  {
+    "title": "Fear and Its Consequences",
+    "quote_ids": [
+      "q1452",
+      "q1480",
+      "q1483",
+      "q1489",
+      "q1490",
+      "q1494",
+      "q1501"
+    ]
+  },
+  {
+    "title": "The Role of Adults",
+    "quote_ids": [
+      "q1446",
+      "q1466",
+      "q1510",
+      "q1511",
+      "q1515",
+      "q1520"
+    ]
+  },
+  {
+    "title": "Obedience vs Freedom",
+    "quote_ids": [
+      "q1517",
+      "q1519",
+      "q1521",
+      "q1522",
+      "q1525"
+    ]
+  },
+  {
+    "title": "The Impact of Education",
+    "quote_ids": [
+      "q1447",
+      "q1462",
+      "q1527",
+      "q1528"
+    ]
+  },
+  {
+    "title": "Truth and Lies",
+    "quote_ids": [
+      "q1512",
+      "q1513",
+      "q1514",
+      "q1518"
+    ]
+  },
+  {
+    "title": "Childhood Autonomy",
+    "quote_ids": [
+      "q1530",
+      "q1531",
+      "q1533",
+      "q1535",
+      "q1536",
+      "q1540",
+      "q1561",
+      "q1567"
+    ]
+  },
+  {
+    "title": "The Dangers of Control",
+    "quote_ids": [
+      "q1532",
+      "q1534",
+      "q1538",
+      "q1539",
+      "q1563",
+      "q1564",
+      "q1572"
+    ]
+  },
+  {
+    "title": "Emotional Well-being",
+    "quote_ids": [
+      "q1544",
+      "q1545",
+      "q1581",
+      "q1583",
+      "q1584",
+      "q1590",
+      "q1612"
+    ]
+  },
+  {
+    "title": "The Impact of Repression",
+    "quote_ids": [
+      "q1555",
+      "q1556",
+      "q1560",
+      "q1568",
+      "q1571",
+      "q1586",
+      "q1611"
+    ]
+  },
+  {
+    "title": "Freedom vs. Authority",
+    "quote_ids": [
+      "q1609",
+      "q1610",
+      "q1614",
+      "q1615",
+      "q1616",
+      "q1619"
+    ]
+  },
+  {
+    "title": "School and Obedience",
+    "quote_ids": [
+      "q1620",
+      "q1621",
+      "q1623",
+      "q1625",
+      "q1631",
+      "q1633",
+      "q1681"
+    ]
+  },
+  {
+    "title": "The Impact of Punishment",
+    "quote_ids": [
+      "q1628",
+      "q1630",
+      "q1634",
+      "q1643",
+      "q1677",
+      "q1707"
+    ]
+  },
+  {
+    "title": "Parental Influence",
+    "quote_ids": [
+      "q1622",
+      "q1624",
+      "q1639",
+      "q1654",
+      "q1692",
+      "q1703"
+    ]
+  },
+  {
+    "title": "Learning and Happiness",
+    "quote_ids": [
+      "q1636",
+      "q1668",
+      "q1678",
+      "q1685",
+      "q1708"
+    ]
+  },
+  {
+    "title": "Children's Rights and Freedom",
+    "quote_ids": [
+      "q1652",
+      "q1653",
+      "q1659",
+      "q1664",
+      "q1699"
+    ]
+  },
+  {
+    "title": "The Impact of Discipline",
+    "quote_ids": [
+      "q1710",
+      "q1711",
+      "q1712",
+      "q1715",
+      "q1720",
+      "q1721",
+      "q1728"
+    ]
+  },
+  {
+    "title": "The Role of Love and Freedom",
+    "quote_ids": [
+      "q1713",
+      "q1714",
+      "q1722",
+      "q1731",
+      "q1751",
+      "q1753"
+    ]
+  },
+  {
+    "title": "Childhood and Play",
+    "quote_ids": [
+      "q1774",
+      "q1780",
+      "q1786",
+      "q1791",
+      "q1792"
+    ]
+  },
+  {
+    "title": "Parental Influence and Expectations",
+    "quote_ids": [
+      "q1736",
+      "q1737",
+      "q1782",
+      "q1783",
+      "q1799"
+    ]
+  },
+  {
+    "title": "Obedience and Control",
+    "quote_ids": [
+      "q1803",
+      "q1805",
+      "q1808",
+      "q1811",
+      "q1815",
+      "q1820",
+      "q1831",
+      "q1834"
+    ]
+  },
+  {
+    "title": "Curiosity and Play",
+    "quote_ids": [
+      "q1848",
+      "q1852",
+      "q1853",
+      "q1855",
+      "q1861",
+      "q1874",
+      "q1885"
+    ]
+  },
+  {
+    "title": "Freedom and Self-Directed Learning",
+    "quote_ids": [
+      "q1835",
+      "q1836",
+      "q1837",
+      "q1882"
+    ]
+  },
+  {
+    "title": "The Consequences of Forced Education",
+    "quote_ids": [
+      "q1816",
+      "q1817",
+      "q1860",
+      "q1875",
+      "q1889"
+    ]
+  },
+  {
+    "title": "Freedom and Responsibility",
+    "quote_ids": [
+      "q1890",
+      "q1896",
+      "q1898",
+      "q1900",
+      "q1902"
+    ]
+  },
+  {
+    "title": "The Impact of Age Segregation",
+    "quote_ids": [
+      "q1891",
+      "q1892",
+      "q1893",
+      "q1894",
+      "q1895",
+      "q1907"
+    ]
+  },
+  {
+    "title": "Parental Influence and Trust",
+    "quote_ids": [
+      "q1901",
+      "q1905",
+      "q1911",
+      "q1912"
+    ]
+  },
+  {
+    "title": "The Struggle for Liberation",
+    "quote_ids": [
+      "q1953",
+      "q1954",
+      "q1960",
+      "q1961",
+      "q1964"
+    ]
+  },
+  {
+    "title": "The Role of Play in Learning",
+    "quote_ids": [
+      "q1921",
+      "q1922",
+      "q1928",
+      "q1931"
+    ]
+  },
+  {
+    "title": "Cultural and Systemic Challenges",
+    "quote_ids": [
+      "q1903",
+      "q1904",
+      "q1906",
+      "q1910",
+      "q1913"
+    ]
+  },
+  {
+    "title": "Oppression and Control",
+    "quote_ids": [
+      "q1980",
+      "q1982",
+      "q1984",
+      "q1991",
+      "q2010",
+      "q2013",
+      "q2014"
+    ]
+  },
+  {
+    "title": "Education as Domination",
+    "quote_ids": [
+      "q1981",
+      "q1983",
+      "q1985",
+      "q1986",
+      "q1993",
+      "q2042"
+    ]
+  },
+  {
+    "title": "The Banking Concept of Education",
+    "quote_ids": [
+      "q1986",
+      "q1987",
+      "q1995",
+      "q2000",
+      "q2055"
+    ]
+  },
+  {
+    "title": "Cultural Invasion and Identity",
+    "quote_ids": [
+      "q2019",
+      "q2020",
+      "q2021",
+      "q2022"
+    ]
+  },
+  {
+    "title": "The Illusion of Freedom",
+    "quote_ids": [
+      "q2005",
+      "q2006",
+      "q2007",
+      "q2008",
+      "q2011"
+    ]
+  },
+  {
+    "title": "Violence in Education",
+    "quote_ids": [
+      "q2063",
+      "q2064",
+      "q2065",
+      "q2066"
+    ]
+  },
+  {
+    "title": "The Role of the Educator",
+    "quote_ids": [
+      "q2015",
+      "q2016",
+      "q2017",
+      "q2033"
+    ]
+  },
+  {
+    "title": "The Nature of Forced Schooling",
+    "quote_ids": [
+      "q2073",
+      "q2079",
+      "q2100",
+      "q2105",
+      "q2110",
+      "q2154"
+    ]
+  },
+  {
+    "title": "Education vs. Control",
+    "quote_ids": [
+      "q2074",
+      "q2102",
+      "q2103",
+      "q2111",
+      "q2157"
+    ]
+  },
+  {
+    "title": "The Illusion of Competence",
+    "quote_ids": [
+      "q2070",
+      "q2071",
+      "q2072",
+      "q2080",
+      "q2091"
+    ]
+  },
+  {
+    "title": "The Role of Literature and Inquiry",
+    "quote_ids": [
+      "q2093",
+      "q2119",
+      "q2121",
+      "q2128",
+      "q2130"
+    ]
+  },
+  {
+    "title": "The Impact of Schooling on Society",
+    "quote_ids": [
+      "q2122",
+      "q2123",
+      "q2134",
+      "q2152",
+      "q2155"
+    ]
+  },
+  {
+    "title": "The Psychological Effects of Schooling",
+    "quote_ids": [
+      "q2114",
+      "q2115",
+      "q2141",
+      "q2142",
+      "q2151"
+    ]
+  },
+  {
+    "title": "Compulsion and Control",
+    "quote_ids": [
+      "q2162",
+      "q2171",
+      "q2200",
+      "q2211",
+      "q2246"
+    ]
+  },
+  {
+    "title": "The Impact of Standardization",
+    "quote_ids": [
+      "q2168",
+      "q2180",
+      "q2182",
+      "q2222",
+      "q2243"
+    ]
+  },
+  {
+    "title": "Resistance and Hope",
+    "quote_ids": [
+      "q2160",
+      "q2196",
+      "q2231"
+    ]
+  },
+  {
+    "title": "The Role of the State",
+    "quote_ids": [
+      "q2191",
+      "q2207",
+      "q2228"
+    ]
+  },
+  {
+    "title": "The Human Element",
+    "quote_ids": [
+      "q2164",
+      "q2187",
+      "q2247"
+    ]
+  },
+  {
+    "title": "The Dangers of Mass Education",
+    "quote_ids": [
+      "q2175",
+      "q2199",
+      "q2233"
+    ]
+  },
+  {
+    "title": "The Role of Family and Society",
+    "quote_ids": [
+      "q2327",
+      "q2333",
+      "q2334"
+    ]
+  },
+  {
+    "title": "The Evolution of Educational Policy",
+    "quote_ids": [
+      "q2253",
+      "q2273",
+      "q2337",
+      "q2338"
+    ]
+  },
+  {
+    "title": "The Crisis of Modern Education",
+    "quote_ids": [
+      "q2266",
+      "q2300",
+      "q2311",
+      "q2315"
+    ]
+  },
+  {
+    "title": "Control and Influence",
+    "quote_ids": [
+      "q2340",
+      "q2341",
+      "q2342",
+      "q2343",
+      "q2344",
+      "q2345"
+    ]
+  },
+  {
+    "title": "The Nature of Schooling",
+    "quote_ids": [
+      "q2362",
+      "q2371",
+      "q2373",
+      "q2380",
+      "q2418"
+    ]
+  },
+  {
+    "title": "Psychological Manipulation",
+    "quote_ids": [
+      "q2363",
+      "q2364",
+      "q2367",
+      "q2392",
+      "q2393",
+      "q2409"
+    ]
+  },
+  {
+    "title": "The Impact of Conformity",
+    "quote_ids": [
+      "q2350",
+      "q2351",
+      "q2352",
+      "q2376",
+      "q2383",
+      "q2421"
+    ]
+  },
+  {
+    "title": "Disillusionment and Dependency",
+    "quote_ids": [
+      "q2395",
+      "q2422",
+      "q2425",
+      "q2428"
+    ]
+  },
+  {
+    "title": "The Human Spirit vs. Institutional Goals",
+    "quote_ids": [
+      "q2404",
+      "q2416",
+      "q2417",
+      "q2423"
+    ]
+  },
+  {
+    "title": "The Bureaucratic Maze",
+    "quote_ids": [
+      "q2430",
+      "q2431",
+      "q2432",
+      "q2433",
+      "q2434",
+      "q2436"
+    ]
+  },
+  {
+    "title": "The Illusion of Improvement",
+    "quote_ids": [
+      "q2437",
+      "q2440",
+      "q2444",
+      "q2452",
+      "q2462"
+    ]
+  },
+  {
+    "title": "The Nature of Control",
+    "quote_ids": [
+      "q2453",
+      "q2454",
+      "q2455",
+      "q2466",
+      "q2471"
+    ]
+  },
+  {
+    "title": "The Impact of Forced Schooling",
+    "quote_ids": [
+      "q2464",
+      "q2472",
+      "q2473",
+      "q2488",
+      "q2491"
+    ]
+  },
+  {
+    "title": "The Crisis of Education",
+    "quote_ids": [
+      "q2500",
+      "q2501",
+      "q2503",
+      "q2507",
+      "q2518"
+    ]
+  },
+  {
+    "title": "The Dumbing Down of Society",
+    "quote_ids": [
+      "q2510",
+      "q2511",
+      "q2516",
+      "q2517",
+      "q2519"
+    ]
+  },
+  {
+    "title": "The Structure of Control",
+    "quote_ids": [
+      "q2520",
+      "q2521",
+      "q2524",
+      "q2534",
+      "q2557"
+    ]
+  },
+  {
+    "title": "The Impact of Schooling on Humanity",
+    "quote_ids": [
+      "q2535",
+      "q2546",
+      "q2549",
+      "q2552",
+      "q2579"
+    ]
+  },
+  {
+    "title": "The Need for Reform",
+    "quote_ids": [
+      "q2540",
+      "q2543",
+      "q2576",
+      "q2581"
+    ]
+  },
+  {
+    "title": "Boredom and Compliance",
+    "quote_ids": [
+      "q2587",
+      "q2588",
+      "q2590",
+      "q2604"
+    ]
+  },
+  {
+    "title": "The Consequences of Compulsory Schooling",
+    "quote_ids": [
+      "q2572",
+      "q2600",
+      "q2606"
+    ]
+  },
+  {
+    "title": "The Illusion of Schooling",
+    "quote_ids": [
+      "q2611",
+      "q2613",
+      "q2614",
+      "q2615",
+      "q2616",
+      "q2622",
+      "q2625",
+      "q2655"
+    ]
+  },
+  {
+    "title": "The Nature of Learning and Self-Direction",
+    "quote_ids": [
+      "q2632",
+      "q2643",
+      "q2646",
+      "q2681",
+      "q2696"
+    ]
+  },
+  {
+    "title": "Conformity and Control",
+    "quote_ids": [
+      "q2617",
+      "q2626",
+      "q2635",
+      "q2671",
+      "q2673"
+    ]
+  },
+  {
+    "title": "The Impact on Relationships and Community",
+    "quote_ids": [
+      "q2666",
+      "q2684",
+      "q2685"
+    ]
+  },
+  {
+    "title": "The Consequences of Standardized Testing",
+    "quote_ids": [
+      "q2730",
+      "q2733",
+      "q2735",
+      "q2754"
+    ]
+  },
+  {
+    "title": "School as a Mechanism of Control",
+    "quote_ids": [
+      "q2704",
+      "q2742",
+      "q2743",
+      "q2751"
+    ]
+  },
+  {
+    "title": "The Impact of Environment on Education",
+    "quote_ids": [
+      "q2764",
+      "q2765",
+      "q2770",
+      "q2780"
+    ]
+  },
+  {
+    "title": "The Reality of Ghetto Education",
+    "quote_ids": [
+      "q2763",
+      "q2785",
+      "q2786",
+      "q2787"
+    ]
+  },
+  {
+    "title": "Boredom and Disengagement in Schools",
+    "quote_ids": [
+      "q2740",
+      "q2741",
+      "q2746"
+    ]
+  },
+  {
+    "title": "Inequality in Education",
+    "quote_ids": [
+      "q2791",
+      "q2802",
+      "q2811",
+      "q2821",
+      "q2833",
+      "q2842",
+      "q2856",
+      "q2879",
+      "q2881",
+      "q2890",
+      "q2903",
+      "q2909",
+      "q2949",
+      "q2953",
+      "q2963"
+    ]
+  },
+  {
+    "title": "The Impact of Environment",
+    "quote_ids": [
+      "q2794",
+      "q2800",
+      "q2804",
+      "q2836",
+      "q2855",
+      "q2865",
+      "q2884",
+      "q2891",
+      "q2899",
+      "q2901",
+      "q2935",
+      "q2937",
+      "q2944",
+      "q3244",
+      "q3272",
+      "q3275",
+      "q3321"
+    ]
+  },
+  {
+    "title": "The Reality of School Life",
+    "quote_ids": [
+      "q2790",
+      "q2793",
+      "q2806",
+      "q2810",
+      "q2814",
+      "q2834",
+      "q2873"
+    ]
+  },
+  {
+    "title": "The Future of Our Children",
+    "quote_ids": [
+      "q2805",
+      "q2822",
+      "q2823",
+      "q2860",
+      "q2862"
+    ]
+  },
+  {
+    "title": "Systemic Failures",
+    "quote_ids": [
+      "q2801",
+      "q2813",
+      "q2844",
+      "q2871",
+      "q2876"
+    ]
+  },
+  {
+    "title": "Perceptions and Choices",
+    "quote_ids": [
+      "q2798",
+      "q2828",
+      "q2830",
+      "q2866",
+      "q2868"
+    ]
+  },
+  {
+    "title": "Testing and Curriculum Control",
+    "quote_ids": [
+      "q2894",
+      "q2912",
+      "q2900",
+      "q2902",
+      "q2961"
+    ]
+  },
+  {
+    "title": "The Role of Funding",
+    "quote_ids": [
+      "q2882",
+      "q2886",
+      "q2897",
+      "q2951",
+      "q2964"
+    ]
+  },
+  {
+    "title": "Social and Racial Dynamics",
+    "quote_ids": [
+      "q2933",
+      "q2931",
+      "q2942",
+      "q2943",
+      "q2968"
+    ]
+  },
+  {
+    "title": "The Future of Urban Education",
+    "quote_ids": [
+      "q2904",
+      "q2945",
+      "q2967"
+    ]
+  },
+  {
+    "title": "The Reality of Schooling",
+    "quote_ids": [
+      "q2970",
+      "q2971",
+      "q2973",
+      "q2974",
+      "q2980",
+      "q2984",
+      "q2996"
+    ]
+  },
+  {
+    "title": "The Illusion of Opportunity",
+    "quote_ids": [
+      "q2982",
+      "q3005",
+      "q3007",
+      "q3010",
+      "q3031",
+      "q3055"
+    ]
+  },
+  {
+    "title": "Education as a Tool of Control",
+    "quote_ids": [
+      "q2977",
+      "q2994",
+      "q3013",
+      "q3028",
+      "q3033",
+      "q3056"
+    ]
+  },
+  {
+    "title": "The Cost of Education",
+    "quote_ids": [
+      "q2988",
+      "q3020",
+      "q3053",
+      "q3054",
+      "q3057"
+    ]
+  },
+  {
+    "title": "The Inequities of Schooling",
+    "quote_ids": [
+      "q3060",
+      "q3061",
+      "q3062",
+      "q3069",
+      "q3084",
+      "q3085"
+    ]
+  },
+  {
+    "title": "The Nature of True Education",
+    "quote_ids": [
+      "q3067",
+      "q3077",
+      "q3086",
+      "q3090",
+      "q3100",
+      "q3144"
+    ]
+  },
+  {
+    "title": "Children and the School System",
+    "quote_ids": [
+      "q3087",
+      "q3096",
+      "q3103",
+      "q3111",
+      "q3122",
+      "q3135"
+    ]
+  },
+  {
+    "title": "The Impact of Compulsion",
+    "quote_ids": [
+      "q3089",
+      "q3093",
+      "q3123",
+      "q3146",
+      "q3147"
+    ]
+  },
+  {
+    "title": "The Role of Relationships in Learning",
+    "quote_ids": [
+      "q3101",
+      "q3105",
+      "q3113",
+      "q3130"
+    ]
+  },
+  {
+    "title": "Challenges of Poverty and Education",
+    "quote_ids": [
+      "q3108",
+      "q3118",
+      "q3126",
+      "q3139"
+    ]
+  },
+  {
+    "title": "The Need for Change in Education",
+    "quote_ids": [
+      "q3080",
+      "q3071",
+      "q3073"
+    ]
+  },
+  {
+    "title": "The Environment of Learning",
+    "quote_ids": [
+      "q3152",
+      "q3153",
+      "q3155",
+      "q3165",
+      "q3177",
+      "q3238"
+    ]
+  },
+  {
+    "title": "Freedom vs Control",
+    "quote_ids": [
+      "q3158",
+      "q3159",
+      "q3168",
+      "q3226",
+      "q3227"
+    ]
+  },
+  {
+    "title": "Children's Needs and Growth",
+    "quote_ids": [
+      "q3161",
+      "q3167",
+      "q3214",
+      "q3222",
+      "q3234"
+    ]
+  },
+  {
+    "title": "The Reality of Childhood",
+    "quote_ids": [
+      "q3181",
+      "q3182",
+      "q3186",
+      "q3190",
+      "q3205",
+      "q3206"
+    ]
+  },
+  {
+    "title": "The Role of Play and Competition",
+    "quote_ids": [
+      "q3231",
+      "q3232",
+      "q3233"
+    ]
+  },
+  {
+    "title": "The Burden of Education",
+    "quote_ids": [
+      "q3255",
+      "q3256",
+      "q3261",
+      "q3262",
+      "q3276"
+    ]
+  },
+  {
+    "title": "Children's Perspectives",
+    "quote_ids": [
+      "q3240",
+      "q3242",
+      "q3243",
+      "q3281",
+      "q3283",
+      "q3289",
+      "q3290"
+    ]
+  },
+  {
+    "title": "The Crisis of Control",
+    "quote_ids": [
+      "q3257",
+      "q3260",
+      "q3263",
+      "q3265",
+      "q3278",
+      "q3295"
+    ]
+  },
+  {
+    "title": "Community and Connection",
+    "quote_ids": [
+      "q3273",
+      "q3269",
+      "q3280"
+    ]
+  },
+  {
+    "title": "The Struggles of Expression",
+    "quote_ids": [
+      "q3331",
+      "q3339",
+      "q3341",
+      "q3356",
+      "q3357",
+      "q3390"
+    ]
+  },
+  {
+    "title": "The Impact of the System",
+    "quote_ids": [
+      "q3372",
+      "q3373",
+      "q3379",
+      "q3380",
+      "q3384",
+      "q3418"
+    ]
+  },
+  {
+    "title": "Dreams and Aspirations",
+    "quote_ids": [
+      "q3335",
+      "q3388",
+      "q3406",
+      "q3409"
+    ]
+  },
+  {
+    "title": "Isolation and Alienation",
+    "quote_ids": [
+      "q3361",
+      "q3416",
+      "q3417"
+    ]
+  },
+  {
+    "title": "The Teacher's Dilemma",
+    "quote_ids": [
+      "q3345",
+      "q3346",
+      "q3391",
+      "q3392"
+    ]
+  },
+  {
+    "title": "The Impact of Compulsory Schooling",
+    "quote_ids": [
+      "q3430",
+      "q3433",
+      "q3442",
+      "q3453",
+      "q3454",
+      "q3460",
+      "q3467",
+      "q3501"
+    ]
+  },
+  {
+    "title": "The Psychological Toll of School",
+    "quote_ids": [
+      "q3450",
+      "q3451",
+      "q3452",
+      "q3470",
+      "q3471",
+      "q3477",
+      "q3497"
+    ]
+  },
+  {
+    "title": "Youth and Identity",
+    "quote_ids": [
+      "q3463",
+      "q3464",
+      "q3466",
+      "q3482",
+      "q3483",
+      "q3489"
+    ]
+  }
+]

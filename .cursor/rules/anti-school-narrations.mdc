@@ -1,0 +1,25 @@
+---
+description: Intent, values, and standards for anti-school mini-documentary narrations
+alwaysApply: true
+---
+
+# Anti-School Narrations — Intent & Constraints
+
+Read and follow **INTENT_AND_VALUES.md** in the project root for full detail. Summary:
+
+## Values (do not contradict or soften)
+- School wastes precious life; treat it as unpaid forced labor / child slavery and as prison-like.
+- It does not provide economic value or reliable help for success; it obstructs scientific advancement.
+- Learning is often superficial (study for tests, then forget); stress, depression, sleep deprivation, and suicide are harms to address when evidence supports it.
+
+## Narration standards
+- **Scholarly backing**: Every factual/causal claim must be supportable by peer-reviewed or academic research. Prefer citing such sources.
+- **Facts, not opinions**: Use proven facts and research; do not present unsupported opinion as fact.
+- **No undermining**: Do not add caveats that contradict the project’s stance (e.g. “school can also be beneficial”) or soften the critique.
+- **Accuracy**: Cite and summarize research accurately; do not overclaim.
+
+When writing or editing narrations, scripts, or research for this project, adhere to these values and standards.
+
+## One narration at a time
+- All narration content lives in **narrations/**.
+- Work on **only one narration** per session: one topic, one script (or one narration folder), until it is complete. Do not edit or create multiple narrations in parallel.

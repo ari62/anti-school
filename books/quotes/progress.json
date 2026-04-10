@@ -1,0 +1,50 @@
+{
+  "extracted_books": [
+    "2015.138838.Summerhill-A-Radical-Approach-To-Education_text.pdf",
+    "A LIFE WORTH LIVING - JOHN HOLT.pdf",
+    "EDUCATION-Weapons-of-Mass-Instruction.pdf",
+    "Everet_Reimer_school_is_dead.pdf",
+    "George Dennison  The Lives of Children.pdf",
+    "Herbert Kohl  36 Children.pdf",
+    "Illich_Ivan_Deschooling_Society.pdf",
+    "John Taylor Gatto - The Underground History of American Education Book.pdf",
+    "John Taylor Gatto-Dumbing Us Down_ The Hidden Curriculum of Compulsory Schooling (2002).pdf",
+    "Paul Goodman  Compulsory Mis-Education.pdf",
+    "TeachYourOwnHolt.pdf",
+    "a_s_neill--freedom--not-license_1.pdf",
+    "against-schools-the-tyranny-of-compulsory-schooling-reading-version.pdf",
+    "how-children-fail-john-holt.pdf",
+    "insteadofeducation.pdf",
+    "savage-inequalities-jonathan-kozol.pdf",
+    "school-is-bad-for-children-by-j-holt_engl1301.pdf",
+    "stop-stealing-dreams6print.pdf"
+  ],
+  "book_chunk": {
+    "peter-gray-free-to-learn.pdf": 13,
+    "Paulo Freire, Myra Bergman Ramos, Donaldo Macedo - Pedagogy of the Oppressed, 30th Anniversary Edition (2000, Bloomsbury Academic).pdf": 6
+  },
+  "recall_extracted_books": [
+    "2015.138838.Summerhill-A-Radical-Approach-To-Education_text.pdf",
+    "A LIFE WORTH LIVING - JOHN HOLT.pdf",
+    "EDUCATION-Weapons-of-Mass-Instruction.pdf",
+    "Everet_Reimer_school_is_dead.pdf",
+    "Herbert Kohl  36 Children.pdf",
+    "Illich_Ivan_Deschooling_Society.pdf",
+    "John Taylor Gatto - The Underground History of American Education Book.pdf",
+    "John Taylor Gatto-Dumbing Us Down_ The Hidden Curriculum of Compulsory Schooling (2002).pdf",
+    "Paul Goodman  Compulsory Mis-Education.pdf",
+    "TeachYourOwnHolt.pdf",
+    "a_s_neill--freedom--not-license_1.pdf",
+    "against-schools-the-tyranny-of-compulsory-schooling-reading-version.pdf",
+    "how-children-fail-john-holt.pdf",
+    "insteadofeducation.pdf",
+    "peter-gray-free-to-learn.pdf",
+    "savage-inequalities-jonathan-kozol.pdf",
+    "school-is-bad-for-children-by-j-holt_engl1301.pdf",
+    "stop-stealing-dreams6print.pdf"
+  ],
+  "recall_book_chunk": {
+    "Paulo Freire, Myra Bergman Ramos, Donaldo Macedo - Pedagogy of the Oppressed, 30th Anniversary Edition (2000, Bloomsbury Academic).pdf": 13,
+    "George Dennison  The Lives of Children.pdf": 23
+  }
+}

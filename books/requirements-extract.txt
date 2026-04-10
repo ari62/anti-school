@@ -1,0 +1,7 @@
+# Optional deps for books/extract_quotes.py (auto-installed into the same Python as the script; no --user)
+pdfplumber>=0.11
+openai>=1.0
+# OPENAI_API_KEY: set in project root .env or books/.env (parsed by extract_quotes.py; no python-dotenv required)
+#
+# Flags: --migrate-schema (no key), --recall-only, --with-recall, --recall-max-per-chunk N, --score-existing,
+#        --reextract-book X --for-recall (recall progress reset)
