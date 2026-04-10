@@ -32,6 +32,4 @@ Work on **only one narration at a time**—one topic or script—until it is fin
 
 Pull requests and issues are welcome: **better citations**, **fact-checks**, **drafts or outlines**, **research briefs**, **small tooling fixes**. Read **`INTENT_AND_VALUES.md`** before you edit narrations. Prefer **one episode per PR** when possible, and say **what changed** and **what sources** back new factual claims.
 
-## License / use
 
-Unless individual files say otherwise, treat content as **project-specific**; open an issue if you want to reuse large portions elsewhere.

@@ -23,3 +23,6 @@ When writing or editing narrations, scripts, or research for this project, adher
 ## One narration at a time
 - All narration content lives in **narrations/**.
 - Work on **only one narration** per session: one topic, one script (or one narration folder), until it is complete. Do not edit or create multiple narrations in parallel.
+
+## Git
+- **Do not** run `git commit`, `git push`, or otherwise change git history **unless the user explicitly asks** you to commit or push (or clearly instructs you to include that in the task). It is fine to run read-only git commands (e.g. `git status`, `git diff`, `git log`) when needed.
