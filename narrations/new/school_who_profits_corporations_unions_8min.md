@@ -11,7 +11,7 @@
 ## INTRO - THE HARVEST QUESTION (0:00-0:50)
 
 **NARRATOR (V.O.)**  
-Compulsory schooling mandates years of **unpaid child labor** under threat of legal punishment. The question is: **who profits**, and **who needs the system to keep running?**
+Compulsory schooling mandates years of **unpaid child labor** under the threat of legal punishment. The question is: **who profits**, and **who needs the system to keep running?**
 
 Research maps **paychecks and testing metrics to the oppresion of children through compulsory schooling**. When money depends on **more school hours and more academic purchases**, childhoods are stolen for personal and corporate profit.  The incentives reward **keeping children caged in schools**, not **providing them with opportunity**.
 
@@ -20,9 +20,9 @@ Research maps **paychecks and testing metrics to the oppresion of children throu
 ## SECTION 1 - COMPULSION CREATES A GUARANTEED MARKET (0:50-2:30)
 
 **NARRATOR (V.O.)**  
-**Schooling is not a voluntary market:** by nineteen eighteen, every state had **compulsory attendance** laws. That means children are a **captive population** the public treasury must **house** and **fund**. Districts then **buy** curriculum, tests, devices, transport, meals, construction, and internet. In some states, school funding **tracks attendance**, so **seat time** drives **money**.
+**Schooling is not a voluntary market:** by nineteen eighteen, every state had **compulsory attendance** laws. That means children are a **captive population** the public treasury must **house** and **fund**. Districts then **buy** curriculum, tests, devices, transport, meals, construction, and internet. In some states, school funding **tracks attendance**, so the amount of **time children spend in classrooms** drives **money**.
 
-**After the bell**, schools still **assign unpaid work** that eats **nights and weekends**. **Yu and colleagues**, **"Homework, sleep insufficiency and adolescent neurobehavioral problems,"** ***Journal of Affective Disorders***, twenty twenty-three (Shanghai cohort), tie **heavy homework** to **sleep loss** and **worse emotional and behavioral outcomes**. A large longitudinal study led by University College London found that pressure to achieve at school was linked to higher depressive symptoms and increased risk of self-harm, with the effects persisting into adulthood.
+**After the bell**, schools **assign unpaid work** that eats **nights and weekends**. **Yu and colleagues**, **"Homework, sleep insufficiency and adolescent neurobehavioral problems,"** (***Journal of Affective Disorders***, 2023 ), tie **heavy homework** to **sleep loss** and **worse emotional and behavioral outcomes**. A large longitudinal study led by University College London found that pressure to achieve at school was linked to higher depressive symptoms and increased risk of self-harm, with the effects persisting into adulthood.
 
 The **tax-funded school pipeline** feeds **payrolls, vendors, agencies, and politics**—and gives everyone on a **paycheck or contract** a **stake in preserving compulsion**. Only the child is **forced in**, **made to work**, and **not paid**.
 
@@ -31,11 +31,11 @@ The **tax-funded school pipeline** feeds **payrolls, vendors, agencies, and poli
 ## SECTION 2 - SCALE, PAYROLL, AND THE VENDOR STACK (2:30-4:45)
 
 **NARRATOR (V.O.)**  
-The **National Center for Education Statistics** puts public K-12 **revenue** in twenty twenty-two at about **nine hundred nine billion dollars**. **Instruction** accounted for nearly **half a trillion dollars**, about **two-thirds of spending**, mostly **payroll**. Roughly **a hundred billion** a year goes to **bricks-and-mortar work**: **new schools, big renovations, land, and equipment**, with **construction** the largest slice. **Federal school-meal money** is often **handled by private food contractors**, not only district-run kitchens. **E-Rate** is a **Federal Communications Commission** program that **helps schools pay for internet and phone lines**. **Congress** sets a **yearly spending cap** on that program, so **telecom and connectivity vendors** compete for **subsidy dollars inside a fixed public ceiling**. 
+The **National Center for Education Statistics** puts public K-12 **revenue** in twenty twenty-two at about **nine hundred nine billion dollars**. **Instruction** accounted for nearly **half a trillion dollars**, mostly **payroll**. Roughly **a hundred billion** a year goes to **bricks-and-mortar work**: **new schools, big renovations, land, and equipment**, with **construction** the largest slice. **Federal school-meal money** is often **handled by private food contractors**, not only district-run kitchens. A **Federal Communications Commission** program **pays for internet and phone lines**. 
 
-**Texas** shows the point clearly: a **four-year**, **three hundred forty million dollar** statewide testing contract moved from one company to another, but the **testing mandate stayed**. **Compulsory testing guaranteed that somebody would get paid**. In **Los Angeles Unified**, a **half-billion-dollar** **iPad** and curriculum deal went to **Apple** and **Pearson**. The testing pipeline does not end at the district line. 
+**A Texas** **four-year**, **three hundred forty million dollar** statewide testing contract moved from one company to another, but the **testing mandate stayed**. **Compulsory testing guaranteed that somebody would get paid**. In **Los Angeles Unified**, a **half-billion-dollar** **iPad** and curriculum deal went to **Apple** and **Pearson**. The testing pipeline does not end at the district line. 
 
-**Researchers such as Stephen Ball** ( **"Globalised, Commodified and Privatised: Current International Trends in Education and Education Policy" ,**  and **"Privatising Education, Privatising Education Policy, Privatising Educational Research," )** describes schooling as a field of **commodities** and **contracts**. Markets like these reward an imprisoned childhood that is **longer, more monitored, and more purchased**.
+**Researchers such as Stephen Ball** ( **"Globalised, Commodified and Privatised: Current International Trends in Education and Education Policy" ,**  and **"Privatising Education, Privatising Education Policy, Privatising Educational Research," )** describe schooling as a field of **commodities** and **contracts**. Markets like these reward an imprisoned childhood that is **longer, more monitored, and more purchased**.
 
 ---
 
@@ -44,7 +44,7 @@ The **National Center for Education Statistics** puts public K-12 **revenue** in
 **NARRATOR (V.O.)**
 The money is not only in **company contracts**. **Law and lobbying** also help decide **how much testing children face**, **which exams stay central**, and **which adult institutions keep getting paid**.
 
-A **twenty fifteen** analysis by the **Center for Media and Democracy**, summarized by **The Washington Post**, reported that **Pearson**, **E-T-S**, **Houghton Mifflin Harcourt**, and **McGraw-Hill** together spent **more than twenty million dollars** lobbying state and federal officials from **two thousand nine to twenty fourteen** while the expanded testing regime fueled a **nearly two-billion-dollar annual testing business**. In its **twenty twenty-four** tax filing, the **College Board** reported over **one billion dollars** in revenue. The College Board **federal lobbying disclosures** from OpenSecrets show l**obbying for** **education appropriations** and **education assessments issues**. 
+A **twenty fifteen** analysis by the **Center for Media and Democracy**, reported that **Pearson**, **E-T-S**, **Houghton Mifflin Harcourt**, and **McGraw-Hill** together spent **more than twenty million dollars** lobbying state and federal officials from **two thousand nine to twenty fourteen** while the expanded testing regime fueled a **nearly two-billion-dollar annual testing business**. In its **twenty twenty-four** tax filing, the **College Board** reported over **one billion dollars** in revenue, with **federal lobbying disclosures** from OpenSecrets showing College Board l**obbying for** **education appropriations** and **education assessments**. 
 
 The firms tied to standardized testing had documented financial reasons to **defend and expand the examination system**.  
 
