@@ -23,7 +23,7 @@ They would call it coercion and slavery.
 
 But when children are run through the same kind of custody, commands, and penalties, society changes the label and calls it **school and education**.
 
-**Apologists** say compulsory school is **for the child's own good** and **for the economy**. Picture **mandatory daily gym** exercise for every adult. This would be **good for personal health** and **good for the economy** through **lower healthcare costs**, however n**o legislature would pass it.** **Children** already live under the **same logic**.  **We do not mandate daily gym exercise for adults because we value individual liberty. Compulsory schooling** does not help anyone. It causes **documented harm**, **years of wasted life**, and **no personal or economic return**.
+**Apologists** say compulsory school is **for the child's own good** and **for the economy**. Picture **mandatory daily gym** exercise for every adult. This would be **good for personal health** and **good for the economy** through **lower healthcare costs**, however n**o legislature would pass it.** **Children** already live under the **same logic**.  **We do not mandate daily gym exercise for adults because we value individual liberty. Unlike daily exercise, compulsory schooling** does not help anyone. It causes **documented harm**, **years of wasted life**, and **no personal or economic return**.
 
 That is the argument of this video: people call compulsory schooling **a helpful public service**. In plain moral terms, it is a system of **unpaid forced child labor** and **child slavery**. The hours are real. The work is real. The penalties are real.
 
