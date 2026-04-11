@@ -65,7 +65,7 @@ Once schools convince parents and children that their scores are important, fami
 
 That is not **bad teaching** alone; it is **treating humans as a commodity**, normalizing a life that **never clocks out** — **pain sold as motivation**, **sleep treated as optional**, **scores treated as self-worth**, and **gratitude demanded from the captive**. **Greed needs the cage.** The official story says the child should **be grateful for the lock.**
 
-**John Taylor Gatto**, in ***Dumbing Us Down***, gave the blunt version: "School is a twelve-year jail sentence where bad habits are the only curriculum truly learned. I teach school and win awards doing it. I should know."
+**John Taylor Gatto**, in ***Dumbing Us Down*** : "School is a twelve-year jail sentence where bad habits are the only curriculum truly learned. I teach school and win awards doing it. I should know."
 
 **END**
 
@@ -113,4 +113,3 @@ That is not **bad teaching** alone; it is **treating humans as a commodity**, no
 **Cross-links in channel canon:** `§12` high-stakes testing, `§30` school industrial complex, `§60` extraction of child output.
 
 **Idea index:** `NARRATION_IDEAS_AND_RESEARCH.md` — items **60** and **30**.
-
