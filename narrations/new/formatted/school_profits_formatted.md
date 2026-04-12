@@ -308,20 +308,77 @@ John Taylor Gatto, in ***Dumbing Us Down***, said:
 - Best delivery style: restrained moral indictment, not shouting.
 
 ---
+## 📚 References
 
-## INCLUDED STUDIES / WORKS / QUOTES CHECKLIST
+### Academic Studies & Research
 
-This version explicitly mentions all of these from your original narration:
+- Yu, Y., et al. (2023).  
+  *Homework, sleep insufficiency and adolescent neurobehavioral problems.*  
+  Journal of Affective Disorders.
 
-- Yu et al. — *Homework, sleep insufficiency and adolescent neurobehavioral problems*
-- Yeo et al. — *Associations of time spent on homework or studying with nocturnal sleep behavior and depression symptoms in adolescents from Singapore*
-- Sullivan et al. — *The association between academic pressure and adolescent depressive symptoms and self-harm: a longitudinal, prospective study in England*
-- Stephen Ball — *Globalised, Commodified and Privatised: Current International Trends in Education and Education Policy*
-- Stephen Ball — *Privatising Education, Privatising Education Policy, Privatising Educational Research*
-- Center for Media and Democracy 2015 lobbying analysis
-- Edward Kim et al. — *Kumon In: The Recent, Rapid Rise of Private Tutoring Centers*
-- Cowen & Strunk — *How Do Teachers' Unions Influence Education Policy? What We Know and What We Need to Learn*
-- Hartney & Flavin — *From the Schoolhouse to the Statehouse: Teacher Union Political Activism and U.S. State Education Reform Policy*
-- John Holt quote from *How Children Fail*
-- John Taylor Gatto quote from *Dumbing Us Down*
+- Yeo, S. C., et al. (2020).  
+  *Associations of time spent on homework or studying with nocturnal sleep behavior and depression symptoms in adolescents from Singapore.*  
+  Sleep Health.
 
+- Sullivan, A., et al. (2026).  
+  *The association between academic pressure and adolescent depressive symptoms and self-harm: a longitudinal, prospective study in England.*  
+  The Lancet Child & Adolescent Health.
+
+---
+
+### Education Policy & Economic Analysis
+
+- Ball, S. J. (2012).  
+  *Globalised, Commodified and Privatised: Current International Trends in Education and Education Policy.*  
+  Routledge.
+
+- Ball, S. J. (2016).  
+  *Privatising Education, Privatising Education Policy, Privatising Educational Research.*  
+  Routledge.
+
+- Center for Media and Democracy. (2015).  
+  *Testing Industry Influence and Lobbying Expenditures Report (2009–2014).*
+
+---
+
+### Industry, Tutoring, and Market Expansion
+
+- Kim, E., et al. (2023).  
+  *Kumon In: The Recent, Rapid Rise of Private Tutoring Centers.*
+
+---
+
+### Political Influence & Unions
+
+- Cowen, J., & Strunk, K. O. (2014).  
+  *How Do Teachers' Unions Influence Education Policy? What We Know and What We Need to Learn.*  
+  Education Policy.
+
+- Hartney, M. T., & Flavin, P. (2011).  
+  *From the Schoolhouse to the Statehouse: Teacher Union Political Activism and U.S. State Education Reform Policy.*  
+  State Politics & Policy Quarterly.
+
+---
+
+### Books & Primary Source Quotes
+
+- Holt, J. (1964).  
+  *How Children Fail.*  
+  Pitman Publishing.
+
+- Gatto, J. T. (2005).  
+  *Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling.*  
+  New Society Publishers.
+
+---
+
+### Institutional & Financial Data
+
+- College Board. (2024).  
+  *IRS Form 990 Filing.*
+
+- National Center for Education Statistics (NCES).  
+  *U.S. Education Spending Data.*
+
+- U.S. Department of Education.  
+  *Education Funding and Expenditure Reports.*
