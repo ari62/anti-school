@@ -1,0 +1,50 @@
+---
+description: Voiceover deliverable shape for anti-school narrations (VO vs appendix, cues)
+globs: narrations/**/*.md
+alwaysApply: false
+---
+
+# Narration voiceover format
+
+When **creating or substantially rewriting** narration markdown under `narrations/`, follow this deliverable. Do not contradict **INTENT_AND_VALUES.md** or **anti-school-narrations.mdc** (substance).
+
+## Two-part structure (required for new work)
+
+1. **`## VOICEOVER`** — Everything meant to be read for the recording. No URLs, DOIs, or producer tables here. Spoken lines only: body copy, quotes, and inline citation sentences.
+2. **`## SOURCES AND PRODUCER NOTES`** (or **`## SOURCES`**) — URLs, DOIs, fact-check tables, optional `## NOTES FOR ELEVENLABS DELIVERY`, checklists.
+
+Never interleave long reference blocks with the script. If the user asks for “script only,” still use a minimal `## SOURCES` stub or “TBD” so the split stays consistent.
+
+## Sections inside VOICEOVER
+
+- Use **section headings with time ranges**, e.g. `## INTRO — TITLE (0:00–0:50)`.
+- Optional production cues on their own lines, matching project style:
+  - `**[VOICE: …]**`, `**[PAUSE …s]**`, `**[B-ROLL: …]**`, pace hints if used elsewhere in the repo.
+- **Read-aloud**: short sentences; avoid nested parentheses in spoken lines; prefer one primary study per beat in VO (full sentence: author, work/journal, year, what was found)—not a bare list of surnames.
+
+## VO rhythm and research blocks (required)
+
+When **inserting or expanding** any narration section—**including legacy formatted scripts without `## VOICEOVER`**—preserve **oral pacing** and **cinematic layering**. Do not optimize for “paper-style” integration at the cost of listenability.
+
+- **Continuity**: Match the **immediate surrounding section** (short lines, bullets, `[PAUSE]`, `---`). Do **not** switch from tight VO pacing into **long academic paragraphs** or single breathless lines that pack study name, full title, journal, and outlet together.
+- **Layer beats** (research + quotes): Prefer **one beat at a time**—stake or claim in 1–2 short lines → `[PAUSE]` if needed → **split attribution** across short lines (author, title or journal, year) → **first quote** → **narrator bridge** (one or two short lines: implication, transition, or reaction) → next quote or next study. Put dense bibliographic detail in **`## SOURCES`**, not in the VO line stack.
+- **Stagger quotes for voice impact**: Do **not** run many long quotes back-to-back with only `---` between them unless the script clearly treats that as an intentional montage. Insert **spoken lines between quotes** so the listener gets breathing room and emphasis.
+- **Anti-patterns (avoid in VO)**:
+  - Paragraph dumps that belong in a journal article or in `## SOURCES`.
+  - Stacking multiple blockquotes with no narrator bridge.
+  - “Literature review” voice that breaks the established cue rhythm of the file.
+- **B-roll**: When adding research-heavy beats, place or suggest **`[B-ROLL: …]`** where a cut would support the beat (follow **`narrations/new/formatted/school_profits_formatted.md`** and the host file’s style).
+
+## Starting point
+
+- Copy **`narrations/TEMPLATE_voiceover.md`** for new narrations unless the user specifies otherwise.
+
+## Canonical example (structure + cues)
+
+Match structure and cue style of **`narrations/new/formatted/school_profits_formatted.md`** (timestamps, VO/B-roll/pause pattern, citations woven into short lines and beats—not academic paragraphs). For other formatted scripts under `narrations/new/formatted/`, **mirror the section-local rhythm** of that file, not a generic essay style.
+
+## Automatic check (Cursor)
+
+This repo has **`.cursor/hooks.json`**: after Agent or **Tab** edits a file under `narrations/`, a hook runs `scripts/check_narration_format.py` **only if the file already contains `## VOICEOVER`** (so legacy scripts without that heading are not spammed). Results appear in Cursor’s **Hooks** output. You do not need to run the script by hand for those edits.
+
+Manual check still works: `python scripts/check_narration_format.py <file.md>`

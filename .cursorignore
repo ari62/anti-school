@@ -1,0 +1,4 @@
+# Large video files — exclude from Cursor indexing / context
+*.mp4
+*.mkv
+

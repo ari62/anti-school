@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "hooks": {
+    "afterFileEdit": [
+      {
+        "command": "python3 .cursor/hooks/run_narration_format_check.py"
+      }
+    ],
+    "afterTabFileEdit": [
+      {
+        "command": "python3 .cursor/hooks/run_narration_format_check.py"
+      }
+    ]
+  }
+}
