@@ -1,5 +1,7 @@
 # Anti-school
 
+**Where narrations are published (YouTube):** [**https://www.youtube.com/@AntiSchool-b6h**](https://www.youtube.com/@AntiSchool-b6h)
+
 This repository exists to support **short, research-backed video narrations** that treat **compulsory schooling** as a serious moral and social problem—not a neutral background institution. The point is not “balance” for its own sake; it is to **document harms and structures** (labor, surveillance, testing markets, health, inequality) with **citations**, while holding a **clear ethical line** against mass compulsory schooling.
 
 ## Why this project

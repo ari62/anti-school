@@ -1,5 +1,7 @@
 # Narrations
 
+**Where narrations are published (YouTube):** [**https://www.youtube.com/@AntiSchool-b6h**](https://www.youtube.com/@AntiSchool-b6h)
+
 Anti-school mini-documentary scripts and research live here. Substance and values: root **`INTENT_AND_VALUES.md`** and **`.cursor/rules/anti-school-narrations.mdc`**.
 
 ## Voiceover deliverable
