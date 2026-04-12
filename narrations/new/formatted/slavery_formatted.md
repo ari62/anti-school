@@ -496,12 +496,106 @@ John Holt, *Instead of Education*:
 
 ## REFERENCES
 
-**Galloway, M. K., Conner, J., & Pope, D. (2013).** *Nonacademic Effects of Homework in Privileged, High-Performing High Schools.* *The Journal of Experimental Education.* (Direct student quotes and homework burden; Stanford-affiliated “Challenge Success” research context.)
+### 📊 Student Workload & Time Use
 
-**Stanford News (2014).** News summary of Stanford / Challenge Success findings on homework load and student stress in high-achieving U.S. schools (covers Galloway et al. and related work).
+- **Mani, S., & Trines, S. (2018).** *Education in South Korea.* World Education Services (WENR).  
+- **Chakrabarti, R. (2013).** *South Korea's schools: Long days, high results.* BBC News.  
+- **Song, L. (2025).** *Review on the Impact of Homework Amount on Chinese High School Students’ Learning.* Proceedings of IESD 2025.  
 
-**Pope, D. C. (2001).** *Doing School: How We Are Creating a Generation of Stressed-Out, Materialistic, and Miseducated Students.* Yale University Press. (Ethnographic case studies; student quotes on evenings and weekends.)
+---
 
+### 🧠 Homework, Stress, and Student Experience (U.S.)
+
+- **Galloway, M. K., Conner, J., & Pope, D. (2013).**  
+  *Nonacademic Effects of Homework in Privileged, High-Performing High Schools.*  
+  *The Journal of Experimental Education.*
+
+- **Stanford News (2014).**  
+  Coverage of Stanford / Challenge Success research on homework load and student stress.
+
+- **Pope, D. C. (2001).**  
+  *Doing School: How We Are Creating a Generation of Stressed-Out, Materialistic, and Miseducated Students.* Yale University Press.
+
+---
+
+### 🧠 Mental Health & Academic Pressure
+
+- **Steare, T., Gutiérrez Muñoz, C., Sullivan, A., & Lewis, G. (2023).**  
+  *The Association Between Academic Pressure and Adolescent Mental Health Problems.*  
+  *Journal of Affective Disorders.*
+
+- **Wuthrich, V. M., Belcher, J., Kilby, C., Jagiello, T., & Lowe, C. (2021).**  
+  *Tracking Stress, Depression, and Anxiety Across the Final Year of Secondary School.*  
+  *Journal of School Psychology.*
+
+---
+
+### 📉 Economic & Educational Outcomes
+
+- **Pischke, J.-S., & von Wachter, T. (2008).**  
+  *Zero Returns to Compulsory Schooling in Germany: Evidence and Interpretation.*  
+  *Review of Economics and Statistics.*
+
+---
+
+### 🧠 Learning & Retention Research
+
+- **Dunlosky, J., Rawson, K. A., Marsh, E. J., Nathan, M. J., & Willingham, D. T. (2013).**  
+  *Improving Students’ Learning with Effective Learning Techniques.*  
+  *Psychological Science in the Public Interest.*
+
+- **Karpicke, J. D., & Roediger, H. L. (2008).**  
+  *The Critical Importance of Retrieval for Learning.*  
+  *Science.*
+
+- **Roediger, H. L., & Butler, A. C. (2011).**  
+  *The Critical Role of Retrieval Practice in Long-Term Retention.*  
+  *Trends in Cognitive Sciences.*
+
+---
+
+### 💤 Physical Health, Sleep, and Activity
+
+- **Owens, J., & Weiss, M. R. (2017).**  
+  *Insufficient Sleep in Adolescents: Causes and Consequences.*  
+  *Minerva Pediatrica.*
+
+- **Ridgers, N. D., Salmon, J., Parrish, A.-M., Stanley, R. M., & Okely, A. D. (2012).**  
+  *Physical Activity During School Recess: A Systematic Review.*  
+  *American Journal of Preventive Medicine.*
+
+---
+
+### ⚖️ Definition of Forced Labor
+
+- **International Labour Organization (ILO). (1930).**  
+  *Forced Labour Convention (No. 29), Article 2(1).*  
+
+---
+
+### 📚 Books & Quoted Authors
+
+- **Dennison, G.**  
+  *The Lives of Children: The Story of the First Street School.*
+
+- **Gray, P. (2013).**  
+  *Free to Learn: Why Unleashing the Instinct to Play Will Make Our Children Happier, More Self-Reliant, and Better Students for Life.*
+
+- **Holt, J. (1964).**  
+  *How Children Fail.*
+
+- **Holt, J. (1974).**  
+  *Escape from Childhood.*
+
+- **Holt, J. (1976).**  
+  *Instead of Education: Ways to Help People Do Things Better.*
+
+- **Illich, I. (1971).**  
+  *Deschooling Society.*
+
+- **Gatto, J. T. (1992).**  
+  *Dumbing Us Down: The Hidden Curriculum of Compulsory Schooling.*
+  
 ---
 
 **END**
