@@ -46,7 +46,7 @@ But when children are put through the same system…
 
 society changes the label…
 
-…and calls it **school**.
+…and calls it **school and education**.
 
 ---
 
@@ -61,7 +61,7 @@ society changes the label…
 
 Apologists say this system exists  
 “for the child’s own good”  
-and “for the economy.”
+and “for society's good.”
 
 But imagine mandatory daily gym for adults.
 
@@ -74,7 +74,7 @@ And yet…
 
 no legislature would ever pass it.
 
-Because we value **adult freedom**.
+Because we value **freedom**.
 
 [VOICE: emphasis drop | pace 0.9]
 
@@ -90,7 +90,7 @@ Instead, it produces:
 
 - documented harm to mental and physical health  
 - years of lost life  
-- and no reliable return  
+- and no financial return  
 
 ---
 
@@ -118,8 +118,9 @@ The first objection people make is this:
 
 “School isn’t work.”
 
-But it is.
+But it is, in the same way any desk job is considered work.
 
+It does not need to be down a mine or in a factory for it to be child labour.
 ---
 
 Children perform structured labor:
@@ -142,7 +143,7 @@ Research shows:
 
 [VOICE: analytical | pace 0.95]
 
-- Students across the world working **16+ hours per day**  
+- Students across the world work **16+ hours per day**  
   (Mani & Trines, *Education in South Korea*, World Education Services, 2018;  
    Reeta Chakrabarti, BBC News, *South Korea's schools: Long days, high results*, 2013;  
    Lipeng Song, *Review on the Impact of Homework Amount on Chinese High School Students’ Learning*, 2025)
@@ -152,6 +153,8 @@ Research shows:
 - They cut sleep…  
 - abandon social life…  
 - and work late into the night.
+
+(Owens & Weiss, *Insufficient Sleep in Adolescents*, 2017;)
 
 [PAUSE 0.6s]
 
@@ -209,7 +212,7 @@ most of it structured school work.
 
 [VOICE: steady | pace 0.92]
 
-Denise Clark Pope’s ethnography:
+Denise Clark Pope’s research:
 
 *Doing School: How We Are Creating a Generation of Stressed-Out, Materialistic, and Miseducated Students* (2001)
 
@@ -250,11 +253,14 @@ remain silent…
 suppress movement…  
 and submit to constant control by an illegitimate authority they never consented to.
 
+(Ridgers et al., *Physical Activity During School Recess*, 2012)
+
+
 [PAUSE 0.6s]
 
 George Dennison wrote, in *The Lives of Children*:
 
-> "School is established not in order that it should be convenient for the children to study, but that the teachers should be able to teach in comfort. The children's conversation, motion, and merriment... are prohibited."
+> "School is established not in order that it should be convenient for the children to study, but that the teachers should be able to teach in comfort. The children's conversation, motion, and merriment, which are their necessary conditions of study, are not convenient for the teacher, and so in the schools — which are built on the plan of prisons — questions, conversation and motion are prohibited."
 
 
 ---
@@ -269,6 +275,8 @@ Children are:
 ---
 
 That is labor.
+That is prison.
+That is slavery.
 
 ---
 
@@ -280,7 +288,7 @@ The International Labour Organization defines forced labor as:
 
 ---
 
-School satisfies all three:
+School satisfies all three conditions:
 
 - required work  
 - penalty  
@@ -352,6 +360,8 @@ Unchosen.
 
 ---
 
+And there is not long term benefit.
+
 Pischke and von Wachter found:
 
 > zero economic return from additional compulsory schooling.
@@ -359,6 +369,8 @@ Pischke and von Wachter found:
 (*Zero Returns to Compulsory Schooling in Germany*, Review of Economics and Statistics, 2008)
 
 ---
+Not only is there no financial benefit, there is no educational benefit
+to compulsory schooling.
 
 Research shows most learning is forgotten.
 
@@ -368,20 +380,9 @@ Roediger & Butler, *The Critical Role of Retrieval Practice*, 2011)
 
 ---
 
-Meanwhile:
-
-- sleep deprivation  
-- prolonged sitting  
-- reduced activity  
-
-(Owens & Weiss, *Insufficient Sleep in Adolescents*, 2017;  
-Ridgers et al., *Physical Activity During School Recess*, 2012)
-
----
-
 School is not just a place.
 
-It is a system that takes time.
+It is a system that takes years of life.
 
 ---
 
@@ -425,7 +426,7 @@ This is called education.
 
 ---
 
-But structurally…
+But in reality...
 
 it is captivity.
 
@@ -454,7 +455,7 @@ as owned.
 
 ---
 
-Owned by systems.  
+Owned by the school system.  
 Owned by authority.
 
 ---
@@ -466,11 +467,6 @@ There is no exit.
 Compliance is required.
 
 ---
-
-John Holt, *Instead of Education*:
-
-> "Education — compulsory schooling, compulsory learning — is a tyranny and a crime against the human mind and spirit."
-
 ---
 
 [PAUSE 1.5s]
@@ -489,6 +485,12 @@ the suicides...
 ---
 
 tell the truth.
+
+---
+
+John Holt, *Instead of Education*:
+
+> "Education — compulsory schooling, compulsory learning — is a tyranny and a crime against the human mind and spirit.  Let all those escape it who can, any way they can."
 
 ---
 
