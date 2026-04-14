@@ -37,7 +37,7 @@ You find corporate interests, corruption, and the enslavement of children for pr
 
 It is system where time becomes a product, pressure becomes normal, and childhood becomes input.
 
-And once that system exists, people start depending on it.
+And once that system exists, people start depending on it for their livelihoods.
 
 People need it to continue.
 
@@ -59,7 +59,7 @@ That creates something unusual:
 
 **[PAUSE 0.8s]**
 
-A guaranteed population.
+A guaranteed market.
 
 Millions of children who must show up, every day, whether they want to or not.
 
@@ -85,11 +85,9 @@ That is not just rhetoric. Specific studies have documented the damage.
 
 **[B-ROLL: child doing homework at night, clock passing midnight, tired face in lamp light]**
 
-**Yu and colleagues, *"Homework, sleep insufficiency and adolescent neurobehavioral problems"*** in the ***Journal of Affective Disorders* (2023)**, tied heavy homework to sleep loss and worse emotional and behavioral outcomes.
+**Yu and colleagues, *"Homework, sleep insufficiency and adolescent neurobehavioral problems"*** ( ***Journal of Affective Disorders* (2023)** ), tied heavy homework to sleep loss and worse emotional and behavioral outcomes.
 
-**Yeo and colleagues, *"Associations of time spent on homework or studying with nocturnal sleep behavior and depression symptoms in adolescents from Singapore"*** in ***Sleep Health* (2020)**, found that longer study hours meant less time in bed, and in that high-pressure system, long study hours were also linked to higher depression symptoms. On weekends, that link to depression still remained even after the researchers accounted for sleep.
-
-And a large longitudinal study led by University College London, **Sullivan et al., *"The association between academic pressure and adolescent depressive symptoms and self-harm: a longitudinal, prospective study in England"*** in ***The Lancet Child & Adolescent Health* (2026)**, found that pressure to achieve at school was linked to higher depressive symptoms and increased risk of self-harm, with effects persisting into adulthood.
+And a large longitudinal study led by University College London, (Sullivan et al. The Lancet Child & Adolescent Health (2026)) **"The association between academic pressure and adolescent depressive symptoms and self-harm..."**, found that pressure to achieve at school was linked to higher depressive symptoms and increased risk of self-harm, with effects persisting into adulthood.
 
 **[PAUSE 0.8s]**
 
@@ -179,7 +177,7 @@ A **2015 analysis by the Center for Media and Democracy** reported that **Pearso
 
 In its 2024 tax filing, the **College Board** reported over one billion dollars in revenue, while federal lobbying disclosures showed the organization lobbying on education appropriations and education assessments.
 
-So once schools convince families that scores are central, a secondary market appears around the pressure.
+Once schools convince families that scores are central, a secondary market appears around the pressure.
 
 Test prep.
 
@@ -209,9 +207,9 @@ And the political structure around schooling does not belong only to corporation
 
 Teachers' unions also wield organized labor power over pay, staffing, and politics.
 
-**Joshua Cowen and Katharine Strunk**, in ***"How Do Teachers' Unions Influence Education Policy? What We Know and What We Need to Learn"***, describe the main channels of influence as collective bargaining, elections, and lobbying.
+***"How Do Teachers' Unions Influence Education Policy? What We Know and What We Need to Learn"*** (**Joshua Cowen and Katharine Strunk**), describes the main channels of influence as collective bargaining, elections, and lobbying.
 
-**Michael Hartney and Patrick Flavin**, in ***"From the Schoolhouse to the Statehouse: Teacher Union Political Activism and U.S. State Education Reform Policy"*** in ***State Politics & Policy Quarterly* (2011)**, show teacher-union political activity shaping whether states adopt reforms like school choice and performance pay.
+***"From the Schoolhouse to the Statehouse: Teacher Union Political Activism and U.S. State Education Reform Policy"*** (***State Politics & Policy Quarterly* (2011)** **Michael Hartney and Patrick Flavin**), shows teacher-union political activity shaping whether states adopt reforms like school choice and performance pay.
 
 Whatever side someone takes on unions, the structural point is still there:
 
@@ -281,13 +279,20 @@ That is not just bad teaching.
 
 It is a structure of incentives.
 
-A structure built on time, compliance, pressure, and continuation.
+Anything that would increase children's freedom,
+ lessen the amount of time they have to spend in school, 
+ decrease the pressure the children face,
+ or decrease the amount of work the children are forced to do,
+ would directly cut into corporate profits and staffing income.
+
+It is system built on time, compliance, pressure, and continuation. 
 
 And once people and corporations depend on those things for their livelihoods and profits, they rarely give them up willingly.
 
 **[FINAL LINE | slower, quiet]**
 
-The incentives cause the powerful to enslave children in a prison, and official story says the child should be grateful for the lock.
+
+The incentives cause the powerful to enslave children in a prison, and the official story says the child should be grateful for the lock.
 
 John Taylor Gatto, in ***Dumbing Us Down***, said:
 
