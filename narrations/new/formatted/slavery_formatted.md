@@ -42,7 +42,7 @@ They would call it slavery.
 
 [VOICE: slightly sharper | pace 0.95]
 
-But when children are put through the same system…
+But when students are put through the same system…
 
 society changes the label…
 
@@ -78,7 +78,7 @@ Because we value **freedom**.
 
 [VOICE: emphasis drop | pace 0.9]
 
-Children do not get that same freedom.
+Students do not get that same freedom.
 
 ---
 
@@ -90,7 +90,7 @@ Instead, it produces:
 
 - documented harm to mental and physical health  
 - years of lost life  
-- and no financial return  
+- no financial return  
 
 ---
 
@@ -100,7 +100,7 @@ The penalties are real.
 
 ---
 
-The polite word is school.
+The polite word is education.
 
 [PAUSE 1.0s]
 
@@ -120,7 +120,7 @@ The first objection people make is this:
 
 But it is, in the same way any desk job is considered work.
 
-It does not need to be down a mine or in a factory for it to be child labour.
+It does not need to be down a mine or in a factory for it to be child labor.
 ---
 
 Children perform structured labor:
@@ -248,7 +248,7 @@ Peter Gray wrote, in *Free to Learn*:
 
 And the conditions are stricter than most people admit.
 
-Children are required to sit still…  
+Students are required to sit still…  
 remain silent…  
 suppress movement…  
 and submit to constant control by an illegitimate authority they never consented to.
@@ -265,7 +265,7 @@ George Dennison wrote, in *The Lives of Children*:
 
 ---
 
-Children are:
+Students are:
 
 - controlled  
 - ranked  
@@ -360,7 +360,7 @@ Unchosen.
 
 ---
 
-And there is not long term benefit.
+And there is no long term benefit.
 
 Pischke and von Wachter found:
 
@@ -391,10 +391,12 @@ It is a system that takes years of life.
 [VOICE: firm | pace 0.93 | clarity 0.92]
 
 Call it what it is.
+Slavery.
 
 ---
 
-Forced work.  
+Forced work.
+Child labor.  
 No pay.  
 No consent.  
 
@@ -412,7 +414,7 @@ John Holt, *Escape from Childhood*:
 
 ---
 
-Children cannot leave.
+Students cannot leave.
 
 They cannot refuse.
 
@@ -444,12 +446,12 @@ It:
 
 - takes years  
 - harms health  
-- extends into home  
+- extends into the home  
 - punishes refusal  
 
 ---
 
-It treats children…
+It treats students…
 
 as owned.
 
